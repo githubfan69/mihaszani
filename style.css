@@ -3,7 +3,8 @@ html, body{
     margin:0px;
     font-family: 'Karla', sans-serif;
     width:100vw;
-    background-image: url(telo.jpg);
+    background-image: url(hatterkep.jpg);
+    background-repeat: no-repeat;
  }
  body * {
     margin:0;
